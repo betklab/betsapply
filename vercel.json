@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "https://betklab.github.io/ashby-job-radar/" },
+    { "source": "/:path*", "destination": "https://betklab.github.io/ashby-job-radar/:path*" }
+  ]
+}
